@@ -159,7 +159,7 @@ Delete the markers, keep the correct text, save, then **commit**.
 
 ## Part 2: Glossary
 
-- **Branch**: A separate line of development in a repository. It lets you work on changes without affecting the main version until you are ready to combine them.
+- **Branch**: A separate line of development in a repository. It lets you build or test changes without affecting the main branch until you are ready to merge them.
 - **Clone**: To make a complete local copy of a remote repository, including all its files and history.
 - **Commit**: A saved snapshot of changes in a repository, with a message that describes what was changed and who changed it.
 - **Fetch**: To download new commits and branches from a remote repository without changing your working files.
