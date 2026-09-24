@@ -158,3 +158,36 @@ Delete the markers, keep the correct text, save, then **commit**.
 ---
 
 ## Part 2: Glossary
+
+- **Branch**: A separate line of development in a repository. It lets you work on changes without affecting the main version until you are ready to combine them.
+- **Clone**: To make a complete local copy of a remote repository, including all its files and history.
+- **Commit**: A saved snapshot of changes in a repository, with a message that describes what was changed and who changed it.
+- **Fetch**: To download new commits and branches from a remote repository without changing your working files.
+- **GIT**: A free, open-source distributed version control system that tracks changes to files and lets many people work on the same project.
+- **GitHub**: A website and cloud service that hosts Git repositories online, so people can store, share, and work together on code.
+- **Merge**: To combine the changes from one branch into another branch.
+- **Merge Conflict**: A problem that happens during a merge when the same part of a file was changed in different ways, so Git needs a person to choose which change to keep.
+- **Push**: To upload your local commits to a remote repository.
+- **Pull**: To fetch changes from a remote repository and immediately merge them into your current local branch.
+- **Remote**: A version of your repository stored on another server, such as GitHub. The default remote is usually named `origin`.
+- **Repository**: A project folder tracked by Git that contains all the files and the full history of changes. It is often shortened to "repo".
+
+---
+
+## References
+
+Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Apress. https://git-scm.com/book/en/v2
+
+Git. (n.d.). *Downloads*. Retrieved September 23, 2026, from https://git-scm.com/downloads
+
+GitHub. (n.d.). *GitHub Docs: Get started*. Retrieved September 23, 2026, from https://docs.github.com/en/get-started
+
+GitHub. (n.d.). *GitHub glossary*. Retrieved September 23, 2026, from https://docs.github.com/en/get-started/learning-about-github/github-glossary
+
+GitHub. (n.d.). *Resolving a merge conflict using the command line*. Retrieved September 23, 2026, from https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
+
+JetBrains. (n.d.). *Download WebStorm*. Retrieved September 23, 2026, from https://www.jetbrains.com/webstorm/download/
+
+JetBrains. (n.d.). *Version control: WebStorm documentation*. Retrieved September 23, 2026, from https://www.jetbrains.com/help/webstorm/version-control-integration.html
+
+IS 117 course lecture slides on Git and GitHub. (2026). New Jersey Institute of Technology.
