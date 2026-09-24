@@ -8,8 +8,6 @@ This tutorial shows a beginner how to install **Git**, set up the WebStorm edito
 
 ---
 
-## Part 1: Directions on Using Git, WebStorm, and GitHub
-
 ### Step 1: Install Git
 
 1. Go to https://git-scm.com/downloads and download **Git** for your operating system (Windows, macOS, or Linux).
